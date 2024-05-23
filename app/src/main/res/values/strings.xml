@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SqliteTutorial</string>
+    <string name="_1">1</string>
+    <string name="user_1">User 1</string>
+    <string name="_21rp01209">21RP01209</string>
+    <string name="email">paccyhabi@gmail.com</string>
+    <string name="username">Username</string>
+    <string name="reg_number">Reg number</string>
+    <string name="emailL">Email</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="reg">Reg number</string>
+    <string name="add">ADD</string>
+    <string name="todo">TODO</string>
+    <string name="noData">No data available</string>
+    <string name="no_data">No Data.</string>
+</resources>
